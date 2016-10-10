@@ -10,6 +10,12 @@
 		max-width: 976px;
 	}
 
+	.wrapper {
+	padding-left: 0;
+	padding-right: 0;
+	}
+
+
 	&--no-pading-until-medium {
 		padding-left: 0;
 		padding-right: 0;
@@ -30,9 +36,6 @@
 		}
 	}
 
-	.wrapper {
-		padding: 0;
-	}
 
 	&--b-margin {
 		margin-bottom: 1rem;
