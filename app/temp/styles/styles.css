@@ -1091,6 +1091,7 @@ Instead edit gulp/templates/sprite*/
 
   .site-header {
     background-color: rgba(47,85,114, .3);
+    position: fixed;
   }
 }
 
