@@ -1,9 +1,16 @@
+<<<<<<< HEAD
 
+=======
+>>>>>>> sticky-header
 {
   "name": "travel-site",
   "version": "1.0.0",
   "dependencies": {
     "jquery": "^3.1.1",
+<<<<<<< HEAD
+=======
+    "jquery-smooth-scroll": "^2.0.0",
+>>>>>>> sticky-header
     "normalize.css": "^4.2.0"
   },
   "devDependencies": {
@@ -26,4 +33,7 @@
     "webpack": "^1.13.2"
   }
 }
+<<<<<<< HEAD
 
+=======
+>>>>>>> sticky-header
