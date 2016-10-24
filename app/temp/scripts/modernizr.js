@@ -1,10 +1,6 @@
 /*!
  * modernizr v3.3.1
-
- * Build http://modernizr.com/download?-svg-setclasses-dontmin
-
  * Build http://modernizr.com/download?-flexbox-svg-setclasses-dontmin
-
  *
  * Copyright (c)
  *  Faruk Ates
@@ -232,8 +228,6 @@
   }
 
   ;
-<<<<<<< HEAD
-=======
 
   /**
    * If the browsers follow the spec, then they would expose vendor-specific style as:
@@ -776,7 +770,6 @@ Detects support for the Flexible Box Layout model, a.k.a. Flexbox, which allows 
 
   Modernizr.addTest('flexbox', testAllProps('flexBasis', '1px', true));
 
->>>>>>> browser-support
 /*!
 {
   "name": "SVG",
