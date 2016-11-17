@@ -15,15 +15,15 @@
 	}
 
 
-	&--no-pading-until-medium {
-		padding-left: 0;
-		padding-right: 0;
+&--no-pading-until-medium {
+	padding-left: 0;
+	padding-right: 0;
 
-		@mixin atMedium {
-			padding-left: 18px;
-			padding-right: 18px;
-		}
+	@mixin atMedium {
+		padding-left: 18px;
+		padding-right: 18px;
 	}
+}
 
 	&--no-pading-until-large {
 		padding-left: 0;
